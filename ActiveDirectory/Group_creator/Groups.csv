@@ -1,0 +1,91 @@
+GroupName,Type,Location,Description
+GG_secOSUK1PREL1WFS01_LONARCH01_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LONARCH01 Share
+GG_secOSUK1PREL1WFS01_LONARCH01_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LONARCH01 Share
+GG_secOSUK1PREL1WFS01_LONARCH01_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LONARCH01 Share
+DL_secOSUK1PREL1WFS01_LONARCH01_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LONARCH01 Share
+DL_secOSUK1PREL1WFS01_LONARCH01_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LONARCH01 Share
+DL_secOSUK1PREL1WFS01_LONARCH01_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LONARCH01 Share
+GG_secOSUK1PREL1WFS01_LONARCH02_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LONARCH02 Share
+GG_secOSUK1PREL1WFS01_LONARCH02_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LONARCH02 Share
+GG_secOSUK1PREL1WFS01_LONARCH02_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LONARCH02 Share
+DL_secOSUK1PREL1WFS01_LONARCH02_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LONARCH02 Share
+DL_secOSUK1PREL1WFS01_LONARCH02_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LONARCH02 Share
+DL_secOSUK1PREL1WFS01_LONARCH02_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LONARCH02 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production Share
+GG_secOSUK1PREL1WFS01_LonData03-Production_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production Share
+GG_secOSUK1PREL1WFS01_LonData03-Production_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production Share
+DL_secOSUK1PREL1WFS01_LonData03-Production_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production Share
+DL_secOSUK1PREL1WFS01_LonData03-Production_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production Share
+DL_secOSUK1PREL1WFS01_LonData03-Production_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production Share
+GG_secOSUK1PREL1WFS01_LonData03-Production2_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production2_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production2_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production2_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production2_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production2_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production3_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production3_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Production3_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production3_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Production3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production3_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Production3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Production3_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Production3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Source_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Source Share
+GG_secOSUK1PREL1WFS01_LonData03-Source_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Source Share
+GG_secOSUK1PREL1WFS01_LonData03-Source_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Source Share
+DL_secOSUK1PREL1WFS01_LonData03-Source_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Source Share
+DL_secOSUK1PREL1WFS01_LonData03-Source_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Source Share
+DL_secOSUK1PREL1WFS01_LonData03-Source_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Source Share
+GG_secOSUK1PREL1WFS01_LonData03-Work_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work Share
+GG_secOSUK1PREL1WFS01_LonData03-Work_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work Share
+GG_secOSUK1PREL1WFS01_LonData03-Work_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work Share
+DL_secOSUK1PREL1WFS01_LonData03-Work_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work Share
+DL_secOSUK1PREL1WFS01_LonData03-Work_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work Share
+DL_secOSUK1PREL1WFS01_LonData03-Work_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-work Share
+GG_secOSUK1PREL1WFS01_LonData03-Work2_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work2_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work2_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work2_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work2_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work2 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work2_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work2 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work3_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work3_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work3_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work3_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work3_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work3 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work3_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work3 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work4_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work4 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work4_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work4 Share
+GG_secOSUK1PREL1WFS01_LonData03-Work4_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work4 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work4_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on LonData03-Work4 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work4_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on LonData03-Work4 Share
+DL_secOSUK1PREL1WFS01_LonData03-Work4_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on LonData03-Work4 Share
+GG_secOSUK1PREL1WFS01_PRODUCTION_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on PRODUCTION Share
+GG_secOSUK1PREL1WFS01_PRODUCTION_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on PRODUCTION Share
+GG_secOSUK1PREL1WFS01_PRODUCTION_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on PRODUCTION Share
+DL_secOSUK1PREL1WFS01_PRODUCTION_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on PRODUCTION Share
+DL_secOSUK1PREL1WFS01_PRODUCTION_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on PRODUCTION Share
+DL_secOSUK1PREL1WFS01_PRODUCTION_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on PRODUCTION Share
+GG_secOSUK1PREL1WFS01_RELEXPORT_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on RELEXPORT Share
+GG_secOSUK1PREL1WFS01_RELEXPORT_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on RELEXPORT Share
+GG_secOSUK1PREL1WFS01_RELEXPORT_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on RELEXPORT Share
+DL_secOSUK1PREL1WFS01_RELEXPORT_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on RELEXPORT Share
+DL_secOSUK1PREL1WFS01_RELEXPORT_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on RELEXPORT Share
+DL_secOSUK1PREL1WFS01_RELEXPORT_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on RELEXPORT Share
+GG_secOSUK1PREL1WFS01_RELEXPORT2_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on RELEXPORT2 Share
+GG_secOSUK1PREL1WFS01_RELEXPORT2_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on RELEXPORT2 Share
+GG_secOSUK1PREL1WFS01_RELEXPORT2_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on RELEXPORT2 Share
+DL_secOSUK1PREL1WFS01_RELEXPORT2_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on RELEXPORT2 Share
+DL_secOSUK1PREL1WFS01_RELEXPORT2_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on RELEXPORT2 Share
+DL_secOSUK1PREL1WFS01_RELEXPORT2_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on RELEXPORT2 Share
+GG_secOSUK1PREL1WFS01_SOURCE_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on SOURCE Share
+GG_secOSUK1PREL1WFS01_SOURCE_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on SOURCE Share
+GG_secOSUK1PREL1WFS01_SOURCE_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on SOURCE Share
+DL_secOSUK1PREL1WFS01_SOURCE_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on SOURCE Share
+DL_secOSUK1PREL1WFS01_SOURCE_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on SOURCE Share
+DL_secOSUK1PREL1WFS01_SOURCE_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on SOURCE Share
+GG_secOSUK1PREL1WFS01_WORK_FC,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on WORK Share
+GG_secOSUK1PREL1WFS01_WORK_RO,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on WORK Share
+GG_secOSUK1PREL1WFS01_WORK_RW,Global,"OU=Global Groups,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on WORK Share
+DL_secOSUK1PREL1WFS01_WORK_FC,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Full control on WORK Share
+DL_secOSUK1PREL1WFS01_WORK_RO,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Read Only on WORK Share
+DL_secOSUK1PREL1WFS01_WORK_RW,DomainLocal ,"OU=Domain Local,OU=Slough,OU=FS Access,OU=Security Groups,OU=IT,DC=ldi,DC=ldiscovery,DC=com",Write on WORK Share
