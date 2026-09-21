@@ -58,9 +58,9 @@ Exit-PSSession
 
 #start DdDuction, Dictionary & Release Services
 Enter-PSSession -Name $SVCServers
-$edvcred = Get-Credential
+$edvcred = Get-Credential 'ccp\_edvupload'
 
-Get-Service -Name "OIRelease" | set-service -StartupType Automatic -Credential $edvcred -verbose
+Get-Service -Name "OIRelease" | set-service -StartupType Automatic  -verbose #credential needs to be set.
 Get-Service -Name "OIDictionary" | set-service -StartupType Automatic -verbose
 Get-Service -Name "OIDdDeduction" | set-service -StartupType Automatic -verbose
 Get-Service -Name "Task Service" | set-service -StartupType Automatic -verbose
@@ -79,7 +79,7 @@ Exit-PSSession
 #start 3x SMAC v4 Services
 Enter-PSSession -Name $SMACServers
 
-#does work on powershell 5.1
+#doesn't work on powershell 5.1
 Get-Service -Name "Storage Manager Remote Object Service v4.5.2.4" | set-service -StartupType AutomaticDelayedStart -verbose
 Get-Service -Name "Storage Manager Task Host Service v4.5.2.4" | set-service -StartupType AutomaticDelayedStart -verbose
 Get-Service -Name "Storage Manager Write Point Monitor Service v4.5.0.24" | set-service -StartupType AutomaticDelayedStart -verbose
