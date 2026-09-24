@@ -15,13 +15,18 @@
     method first and falls back automatically.
 
 .EXAMPLE
-    .\Get-VeeamDedupeCompressionRatios.ps1
+    .\Get-VeeamDedupeCompressionRatios.ps1 | Format-Table -AutoSize
 
 .EXAMPLE
     .\Get-VeeamDedupeCompressionRatios.ps1 -JobName "UKT-Hyper-V" | Format-Table -AutoSize
 
 .EXAMPLE
     .\Get-VeeamDedupeCompressionRatios.ps1 | Export-Csv -Path "C:\Temp\VeeamRatios.csv" -NoTypeInformation
+
+.NOTES
+    The script returns plain objects (no Format-Table baked in), so it plays
+    nicely with Export-Csv. Add "| Format-Table -AutoSize" yourself when you
+    just want to eyeball it on screen.
 #>
 
 [CmdletBinding()]
@@ -109,4 +114,4 @@ foreach ($job in $jobs) {
     }
 }
 
-$results | Format-Table -AutoSize
+$results
